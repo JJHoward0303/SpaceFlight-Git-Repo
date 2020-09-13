@@ -1,0 +1,18 @@
+13:44:20	Deploying Plugins
+13:44:21	Searching for plugin config in 'C:\SpaceFlight git Repo 3\Plugins\Plugins\spkl\..'
+13:44:21	Using Config 'C:\SpaceFlight git Repo 3\Plugins\Plugins'
+13:44:21	Checking assembly 'Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll' for plugins
+13:44:21	Checking assembly 'SpaceFlight.Plugins.dll' for plugins
+13:44:21	2 plugin(s) found!
+13:44:21	Processed 1 config(s)
+13:47:35	Deploying Plugins
+13:47:35	Searching for plugin config in 'C:\SpaceFlight git Repo 3\Plugins\Plugins\spkl\..'
+13:47:35	Using Config 'C:\SpaceFlight git Repo 3\Plugins\Plugins'
+13:47:35	Checking assembly 'Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll' for plugins
+13:47:35	Checking assembly 'SpaceFlight.Plugins.dll' for plugins
+13:47:35	2 plugin(s) found!
+13:47:36	Registering Plugin 'SpaceFlight.Plugins' from 'C:\SpaceFlight git Repo 3\Plugins\Plugins\bin\Debug\SpaceFlight.Plugins.dll'
+13:47:37	Registering Type 'SpaceFlight.Plugins.AccountPlugin'
+13:47:39	Registering Step 'Pre-Update Account'
+13:47:41	Registering Image 'Pre-Image'
+13:47:42	Processed 1 config(s)
