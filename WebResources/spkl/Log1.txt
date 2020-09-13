@@ -1,0 +1,12 @@
+14:47:54	Deploying WebResources
+14:47:54	Using Config 'C:\SpaceFlight git Repo 3\WebResources'
+14:47:55	Creating Webresource 'sf365\js\Checkin.js' -> 'sf365/js/Checkin.js'
+14:54:18	Deploying WebResources
+14:54:18	Using Config 'C:\SpaceFlight git Repo 3\WebResources'
+14:54:18	Creating Webresource 'sf365\js\Checkin.js' -> 'new_sf365/js/Checkin.js'
+14:54:22	Adding to solution 'SpaceFlight'
+14:54:23	Deployed 1 webresource(s)
+14:54:23	Publishing 1 webresources...
+14:54:35	Publish complete.
+14:54:35	Processed 1 section(s)
+14:54:35	Processed 1 config(s)

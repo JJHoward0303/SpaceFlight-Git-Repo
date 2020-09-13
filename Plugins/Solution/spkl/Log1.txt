@@ -1,0 +1,18 @@
+15:27:48	Unpacking solution
+15:27:48	Searching for packager config in 'C:\SpaceFlight git Repo 3\Plugins\Solution\spkl\..'
+15:27:48	Using Config 'C:\SpaceFlight git Repo 3\Plugins\Solution'
+15:30:22	Unpacking solution
+15:30:22	Searching for packager config in 'C:\SpaceFlight git Repo 3\Plugins\Solution\spkl\..'
+15:30:22	Using Config 'C:\SpaceFlight git Repo 3\Plugins\Solution'
+15:40:08	Unpacking solution
+15:40:08	Searching for packager config in 'C:\SpaceFlight git Repo 3\Plugins\Solution\spkl\..'
+15:40:08	Using Config 'C:\SpaceFlight git Repo 3\Plugins\Solution'
+15:49:07	Unpacking solution
+15:49:07	Searching for packager config in 'C:\SpaceFlight git Repo 3\Plugins\Solution\spkl\..'
+15:49:07	Using Config 'C:\SpaceFlight git Repo 3\Plugins\Solution'
+15:56:28	Unpacking solution
+15:56:28	Searching for packager config in 'C:\SpaceFlight git Repo 3\Plugins\Solution\spkl\..'
+15:56:28	Using Config 'C:\SpaceFlight git Repo 3\Plugins\Solution'
+16:02:55	Unpacking solution
+16:02:55	Searching for packager config in 'C:\SpaceFlight git Repo 3\Plugins\Solution\spkl\..'
+16:02:55	Using Config 'C:\SpaceFlight git Repo 3\Plugins\Solution'
